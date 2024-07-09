@@ -1,0 +1,27 @@
+
+# Practicing with Genomic Data
+
+We will use the data from this portal: https://portal.gdc.cancer.gov/
+
+## Installing the R package
+
+You can find use the R package here to get these data: https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html
+
+## Getting the data
+
+Walk through the steps of how to obtain this data
+
+
+## Basic analyses
+
+Walk through some basic analyses, referencing techniques from
+https://hutchdatascience.org/Choosing_Genomics_Tools/
+
+
+## Basic plots
+
+
+```{r}
+sessionInfo()
+
+```

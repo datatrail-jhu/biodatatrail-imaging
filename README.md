@@ -1,1 +1,1 @@
-# biodatatrail-genomics
+# biodatatrail-clinical
