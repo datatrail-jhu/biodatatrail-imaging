@@ -1,0 +1,13 @@
+
+# Getting Started with Genomic Data
+
+
+## What is sequencing data?
+
+How is sequencing data created -- briefly what are the different types?
+
+## What is PII and PHI and why is it important? Why is genomic data often protected?
+
+See this course: https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/
+
+What is an IRB? 
