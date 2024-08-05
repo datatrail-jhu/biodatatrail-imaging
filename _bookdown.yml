@@ -1,8 +1,8 @@
-book_filename: "BioDataTrail -- genomics"
+book_filename: "BioDataTrail -- Imaging"
 chapter_name: "Chapter "
 rmd_files: ["index.Rmd",
             "01-intro.Rmd",
-            "02-intro-to-genomic-data.Rmd",
+            "02-intro-to-imaging-data.Rmd",
             "03-getting-started.Rmd",
             "04-tutorial.Rmd",
             "About.Rmd",
