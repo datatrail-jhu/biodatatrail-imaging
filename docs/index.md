@@ -1,6 +1,6 @@
 ---
 title: " BioDataTrail -- Clinical Data "
-date: "July, 2024"
+date: "August, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

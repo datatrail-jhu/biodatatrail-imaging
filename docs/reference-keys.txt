@@ -2,10 +2,9 @@ introduction
 motivation
 target-audience
 curriculum
-introduction-to-genomic-data
-what-is-genomic-data
-why-is-genomic-data-important
-what-are-the-general-types-of-genomic-data
+introduction-to-imaging-data
+types-of-imaging
+sources
 getting-started-with-genomic-data
 what-is-sequencing-data
 what-is-pii-and-phi-and-why-is-it-important-why-is-genomic-data-often-protected
