@@ -1,5 +1,5 @@
 
-# Getting Started with Genomic Data
+# Getting Started with Imaging
 
 
 ## What is sequencing data?
